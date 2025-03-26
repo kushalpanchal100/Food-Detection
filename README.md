@@ -46,7 +46,6 @@ This Streamlit application uses Google's Gemini API to detect food in images and
 
 - Streamlit for the web interface
 - Google Gemini API for advanced food detection
-- FatSecret API for nutritional information
 - Python for backend processing
 
 ## Tips for Best Results
