@@ -1,0 +1,8 @@
+streamlit==1.29.0
+pillow==10.1.0
+tensorflow
+requests==2.31.0
+python-dotenv==1.0.0
+fatsecret==0.4.0
+google-generativeai==0.3.2
+pandas==2.0.3 
