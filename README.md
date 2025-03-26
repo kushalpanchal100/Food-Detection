@@ -1,4 +1,4 @@
-# Food Detection & Nutrition App
+# Food Detection App
 
 This Streamlit application uses Google's Gemini API to detect food in images and provides nutritional information using the FatSecret API.
 
